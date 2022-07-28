@@ -1,6 +1,4 @@
-body{
-    background-color: aquamarine;
-}
+
 .p-font{
     font-size: 10px;
 }
@@ -14,11 +12,9 @@ body{
     font-size: 20px;
     font-weight: 600;
     border: none;
-
 }
 .price-color{
     color:  #289BDE;
-
 }
 .footer-tx-color{
     color: #0d6efd;
@@ -31,7 +27,7 @@ body{
     color: #FFFFFF;
     padding: 1% 3%;
     font-weight: 600;
-    font-size: 20px;
+    font-size: 20px; 
 }
 .font-color{
     color: goldenrod;
